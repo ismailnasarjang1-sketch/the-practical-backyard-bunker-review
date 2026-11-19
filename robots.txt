@@ -1,0 +1,5 @@
+# The Practical Backyard Bunker Review
+User-agent: *
+Allow: /
+
+Sitemap: https://the-practical-backyard-bunker-review.vercel.app/sitemap.xml
